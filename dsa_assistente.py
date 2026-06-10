@@ -34,7 +34,7 @@ except:
 
 # Configura a página do Streamlit com título, ícone, layout e estado inicial da sidebar
 st.set_page_config(
-    page_title="DSA AI Coder",
+    page_title="Hélio's X_X AI Coder",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -60,7 +60,7 @@ REGRAS DE OPERAÇÃO:
 with st.sidebar:
     
     # Define o título da barra lateral
-    st.title("🤖 DSA AI Coder")
+    st.title("🤖 Hélio's X_X AI Coder")
     
     # Mostra um texto explicativo sobre o assistente
     st.markdown("Um assistente de IA focado em programação Python para ajudar iniciantes.")
@@ -78,16 +78,16 @@ with st.sidebar:
     st.markdown("Desenvolvido para auxiliar em suas dúvidas de programação com Linguagem Python. IA pode cometer erros. Sempre verifique as respostas.")
 
     st.markdown("---")
-    st.markdown("Conheça os Cursos Individuais, Formações e Programas de Pós-Graduação da DSA:")
+   # st.markdown("Conheça os Cursos Individuais, Formações e Programas de Pós-Graduação da DSA:")
 
     # Link para o site da DSA
-    st.markdown("🔗 [Data Science Academy](https://www.datascienceacademy.com.br)")
+    #st.markdown("🔗 [Data Science Academy](https://www.datascienceacademy.com.br)")
     
     # Botão de link para enviar e-mail ao suporte da DSA
-    st.link_button("✉️ E-mail Para o Suporte DSA no Caso de Dúvidas", "mailto:suporte@datascienceacademy.com.br")
+    st.link_button("✉️ E-mail Para o Suporte  no Caso de Dúvidas", "mailto:h_silvestre81@hotmail.com")
 
 # Título principal do app
-st.title("Data Science Academy - DSA AI Coder")
+st.title("Hélio's X_X  - HSS AI Coder")
 
 # Subtítulo adicional
 st.title("Assistente Pessoal de Programação Python 🐍")
