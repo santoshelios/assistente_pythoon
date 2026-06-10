@@ -178,7 +178,7 @@ st.markdown(
     """
     <div style="text-align: center; color: gray;">
         <hr>
-        <p>DSA AI Coder - Parte Integrante do Curso Gratuito Fundamentos de Linguagem Python da Data Science Academy</p>
+        <p>HSS AI Coder - Parte Integrante do Curso Gratuito Fundamentos de Linguagem Python</p>
     </div>
     """,
     unsafe_allow_html=True
