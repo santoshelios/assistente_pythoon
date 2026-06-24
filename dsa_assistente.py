@@ -34,7 +34,7 @@ except:
 
 # Configura a página do Streamlit com título, ícone, layout e estado inicial da sidebar
 st.set_page_config(
-    page_title="Hélio's X_X AI Coder",
+    page_title="Hélio's Assistente de Programação",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -60,7 +60,7 @@ REGRAS DE OPERAÇÃO:
 with st.sidebar:
     
     # Define o título da barra lateral
-    st.title("🤖 Hélio's X_X AI Coder")
+    st.title("🤖 Hélio's Assistente de Programação")
     
     # Mostra um texto explicativo sobre o assistente
     st.markdown("Um assistente de IA focado em programação Python para ajudar iniciantes.")
@@ -87,7 +87,7 @@ with st.sidebar:
     st.link_button("✉️ E-mail Para o Suporte  no Caso de Dúvidas", "mailto:h_silvestre81@hotmail.com")
 
 # Título principal do app
-st.title("Hélio's X_X  - HSS AI Coder")
+st.title("Hélio's Assistente de Programação")
 
 # Subtítulo adicional
 st.title("Assistente Pessoal de Programação Python 🐍")
